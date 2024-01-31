@@ -2016,7 +2016,7 @@ pre code {
   background: #ccc;
   height: 1px;
   margin: 80px auto 60px;
-  width: 8%;
+  width: 60%;
 }
 .post-block:last-of-type .post-eof {
   display: none;
@@ -2565,7 +2565,7 @@ header.header {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #03f1b0;
+  background: #e912ab;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
